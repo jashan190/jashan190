@@ -1,7 +1,9 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on ...
-- 📫 How to reach me: ...
+My name is Jashan (it means celebration in Urdu!) and I am an undegrad student at UC Davis. I am passionate about growing and thus always lookig for new problems to solve. 
+
+- 🔭 I’m currently working on [SalahSync][https://github.com/jashan190/SalahSync], Aswat, Minara, and Fitsense!
+- 📫 How to reach me: jdsing@ucdavis.edu
 
 
 
